@@ -1,0 +1,1 @@
+This book teaches Python programming with practical examples. It focuses on automating repetitive tasks like scraping websites, organizing files, and handling emails.

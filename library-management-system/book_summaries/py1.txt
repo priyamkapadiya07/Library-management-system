@@ -1,0 +1,1 @@
+"Core Python Programming" by Dr. R. Nageswara Rao is a comprehensive guide aimed at helping beginners and intermediate developers learn Python programming. The book provides a detailed explanation of Python's core concepts and features, focusing on its syntax, data types, control structures, functions, object-oriented programming (OOP) concepts, and more.
